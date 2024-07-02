@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS403SK_DuAn.Module", "CS403SK_DuAn.Module\CS403SK_DuAn.Module.csproj", "{0AA87397-D955-422B-9CC7-F6D508EAE3B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS403SK_DuAn.Blazor.Server", "CS403SK_DuAn.Blazor.Server\CS403SK_DuAn.Blazor.Server.csproj", "{EC10F185-6B67-4D3C-8297-1F75812BDC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AA87397-D955-422B-9CC7-F6D508EAE3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA87397-D955-422B-9CC7-F6D508EAE3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA87397-D955-422B-9CC7-F6D508EAE3B5}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0AA87397-D955-422B-9CC7-F6D508EAE3B5}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0AA87397-D955-422B-9CC7-F6D508EAE3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA87397-D955-422B-9CC7-F6D508EAE3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC10F185-6B67-4D3C-8297-1F75812BDC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC10F185-6B67-4D3C-8297-1F75812BDC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC10F185-6B67-4D3C-8297-1F75812BDC58}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{EC10F185-6B67-4D3C-8297-1F75812BDC58}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{EC10F185-6B67-4D3C-8297-1F75812BDC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC10F185-6B67-4D3C-8297-1F75812BDC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E4522C-1AC4-4A91-B768-6D77E5F2582F}
+	EndGlobalSection
+EndGlobal
